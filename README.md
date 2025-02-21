@@ -1,0 +1,1 @@
+# This project is to predict the prices of apartment houses and villas in Mashhad.
